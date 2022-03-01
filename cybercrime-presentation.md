@@ -18,8 +18,8 @@ Adam Petříček, Radek Mocek
 
 # Cybercrime
 
-- crime which includes network and a computer
-    - is performed with computer or against computer
+- crime which includes a network and a computer
+    - is performed with a computer or against a computer
     - could be performed by individuals or organized groups
 - some of the most common threats are **phishing**, **ransomware**, **DoS**, **botnet**, **keylogger**, **SQL injection**
 - **malware** is a generic term for describing any software designed to cause trouble
@@ -29,7 +29,7 @@ ___
 # Phishing
 
 - social engineering technique, consists of fraudulent message
-- message is trying to get sensitive user information by pretending to look like official message from some service
+- the message is trying to get sensitive user information by pretending to look like an official message from some service
     - user is redirected to fake website which looks exactly like the real one
     - if user inputs their credentials, the attacker will gain access to them, they could be then used to steal victim's account
 
@@ -46,10 +46,10 @@ ___
 
 # Ransomware
 - attacker blocks and encrypts user's data
-- then he blackmails user and demands money for decrypting data
+- then blackmails the user and demands money for decrypting data
     - attacker can also threaten to publish data (if they're sensitive)
 - typically spreads using trojan horse in some malicious software downloaded by user
-- payment required by attacker is usually using cryptocurrencies (to avoid being tracked)
+- the payment required by the attacker is usually using cryptocurrencies (to avoid being tracked)
 
 **HOW TO AVOID:**
 do not download content from suspicious sources
@@ -80,7 +80,7 @@ ___
 ___
 
 # Botnet
-- lots of inficated computers (zombies) are controlled from one device to perform different cybercrimes (most often DDoS)
+- lots of infected computers (zombies) are controlled from one device to perform different cybercrimes (most often DDoS)
 - users typically do not have a clue about their computer being infected
 - bot master has to limit number of requests to avoid being caught by ISP
 
@@ -98,7 +98,7 @@ ___
 
 - malware which records keys you press and sends them to the attacker
 - attacker can gain your credentials using this method
-- hardware keyloggers can be harder to detect than software
+- hardware keyloggers can be harder to detect than software ones
 - your antivirus should usually detect the keylogger before it installs
 
 **HOW TO AVOID:**
@@ -118,7 +118,7 @@ ___
 - SQL is language used to manage databases
 - this attack targets poorly secured forms on websites
 - by typing part of the SQL query directly into the form input, the query would execute and cause trouble in database
-- attacker can either try to remove data from database or to gain access to secured data like passwords
+- attacker can either try to remove data from the database or to gain access to secured data like passwords
 
 **HOW TO AVOID:**
 by securing your SQL query or database
@@ -140,7 +140,7 @@ ___
 - there is no way to get original data back (used to store passwords)
 
 **Cypher**
-- data are encrypted using algorithm with decryption key
+- data are encrypted using an algorithm with a decryption key
 - this key is secure and can be used to decrypt data back
 </div>
 
@@ -160,8 +160,9 @@ ___
 
 # Phrases
 
+- fraudulent
 - SQL query (Structured Query Language)
-- URL (Universal Resource Locator)
+- URL (Uniform Resource Locator)
 - ISP (Internet Service Provider)
 - hash
 - cryptocurrencies
