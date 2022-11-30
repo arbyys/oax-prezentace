@@ -73,10 +73,16 @@ ___
 
 ## Testing
 
+- creating 
+
 ___
 
 ## Docker
 
+
+
 ___
 
 ## Git CI
+
+- Continuous Integration
