@@ -71,9 +71,10 @@ ___
 
 ___
 
-## Testing
+## Code testing
 
-- creating 
+- expecting designated result for each case that can happen
+- example - ?
 
 ___
 
