@@ -28,10 +28,10 @@ ___
 ___
 
 ## Code documentation
-- function docs comments
+- docs comments
     - can be used for generating wiki
     - code is more understandable by other people
-    - necessity for great open-source projects
+    - necessity for good open-source projects
 <br>
 - API endpoint documentation &mdash; **Swagger**
     - code formatted as YAML / JSON
@@ -74,7 +74,7 @@ ___
 
 ## Code testing
 
-<div style="font-size: 1.82rem">
+<div style="font-size: 1.72rem">
 
 - writing program that expects designated result for each case that can happen in your code
 - example - **testing a function that moves robot by some distance forward**
@@ -86,6 +86,7 @@ ___
         - you expect robot to stay in place
 - if all cases match the expectations, tests succeed
 - rewriting tests everytime you change your code
+- unit tests, endpoint tests
 </div>
 
 ___
@@ -103,12 +104,12 @@ ___
 
 <div style="font-size: 1.9rem">
 
-- OS-level virtualization (OS not virtualized)
+- OS-level virtualization
 - isolates software to containers - **containerization**
-- used for having the same working environment for software on different machines
+- used for having the same working environment on different machines
 <br>
 1. you create **dockerfile** (set of instructions) for the app where you specify all the needed files, libraries, etc.
-2. on different machine, you create **docker container** from the dockerfile where your app will be running
+2. on different machine, you create **docker container** based on the instructions - where your app will be running
 3. you don't have to worry about mismatched versions of libraries, etc.
 </div>
 
@@ -130,7 +131,7 @@ ___
 - GitHub and GitLab each with their own implementation
 - way to automate routine tasks like testing, builds or deployment with every **push**
 - CI can be set to do different tasks depending on commit tag
-- you can generate **artifacts** for download - results of CI (code coverage)
+- you can generate **artifacts** for download - results of CI (code coverage, exe files)
 - previously mentioned technologies can be automated using CI
 
 <div>
@@ -154,7 +155,20 @@ ___
 
 ___
 
-<div style="display: flex; justify-content: center; align-items: center;">
+
+<div style="display: flex; align-items: baseline; justify-content: left;">
+    <img width="920" src="https://www.arbystools.eu/storage/uploaded/0528.png">
+</div>
+
+___
+
+
+<div style="display: flex; align-items: baseline; justify-content: left;">
+    <img width="1240" src="https://www.arbystools.eu/storage/uploaded/1b9d.png">
+</div>
+
+___
+
 
 # Any questions?
 
