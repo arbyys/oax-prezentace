@@ -100,3 +100,38 @@ section img {
     max-width: 600px;
     border-radius: 50px;
 }
+
+footer {
+    margin-top: 4rem;
+    display: flex;
+    justify-content: center;
+    flex-wrap: nowrap;
+    font-size: 1.2rem;
+    padding: 1.5rem;
+}
+
+footer span.ospan {
+    background-color: #9cf09c;
+    transition: background-color 0.25s;
+    padding: 6px;
+    border-radius: 10px;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #4c8c4c;
+    font-family: 'Mukta', sans-serif;
+}
+
+footer span.ospan img {
+    margin-right: 5px;
+}
+
+footer span.ospan:hover {
+    background-color: #86eb86;
+}
+
+footer img {
+    height: 25px;
+}
